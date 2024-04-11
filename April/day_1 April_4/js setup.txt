@@ -1,0 +1,32 @@
+// Step :1 
+Download and install node.js
+https://nodejs.org/en/download
+
+node --v
+
+// Step :2 Download and install visual studio code
+https://code.visualstudio.com/docs/?dv=win64user
+
+// Step 3: Open visual studio code
+// Create a folder on Desktop , select folder
+// Add a file script.js 
+// Add the code - console.log("hello")
+
+// Terminal execution:
+// node script.js
+
+// install live server extension
+// Add a file index.html 
+// !
+// Head section:
+  <script src=""></script>
+
+// body section:
+  <script> </script>  
+
+// Add the code - inside the script:    document.write("Hello World!");
+
+
+/// Online code editor:
+1. js bin
+2. browser console
