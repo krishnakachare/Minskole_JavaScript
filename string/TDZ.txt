@@ -1,6 +1,0 @@
-1. It is related to the let and const variable declarations.
-2. It's a specific phase during the variable's lifecycle where accessing the variable results in a ReferenceError.
-
-In the example, when we try to console.log the myLet variable before its declaration, JavaScript throws a ReferenceError. This happens because myLet is in the temporal dead zone until it's actually declared with let.
-
-On the other hand, the var declaration is hoisted, meaning the variable is moved to the top of its scope and initialized with a value of undefined. So, console.log(myVar) will output undefined without any error.

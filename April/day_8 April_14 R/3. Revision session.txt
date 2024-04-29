@@ -1,0 +1,62 @@
+# What ? Why ? How ?
+
+# Front end technologies- HTML,CSS, JS
+- HTML ?
+- CSS ?
+- Js ? Make dynamic web page - js help
+
+# DOM - Document Object Model
+- Modify the HTML structure, styling, content of web page, user input
+
+
+# Js scripts:- .js file
+
+# locations to put js code:-
+- with HTML
+1. inline js - onClick, onload
+2. internal js
+3. external js
+
+
+# js Comments? use?
+1. single line comment // [ctrl+/]
+2. multiline comment /* */ [shift+alt+a]
+
+# synch Execution ?
+
+# Read the js code:
+-split it (keywords,variable, operators,value)
+-variable stages:
+ undeclared?
+ declared?
+ Initialization?
+ update/change/reassign?
+ Redeclared?
+
+# variables:
+ defination?
+
+# variable declaration keywords diff: var, let const
+
+                                var                        let             const
+1. In js                        begining                   ES6              ES6
+2. Initialization              N required                  N  required      Y required
+2. value update                   Y                        Y                N(mutate only)
+4. Redeclared variable            Y                        N                N
+5. TDZ                            N                        Y                Y
+6. Scope:                       F,G                       F,G,B            F,G,B  
+
+#NOTE: Exception for undeclared variable and const keyword
+
+# Js strict mode: 'use strict'
+# Scope: G?, F?, B?
+# Js object oriented lang
+
+#Js Event loop:
+EC?
+phase?
+
+
+#Hoisting in js?(variable and fun)
+
+

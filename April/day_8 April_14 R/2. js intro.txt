@@ -1,0 +1,44 @@
+# What ? Why ? How ?
+# js History:
+
+https://www.linkedin.com/pulse/history-javascript-its-evolution-suleman-elahi/
+
+-js invented by Sir Brenden Eich in 1995 for Netscape2.
+-first name is Mocha, livescript, after javascript.
+
+-What is ECMASCRIPT?
+-ECMAScript is JavaScript
+-ECMA-Standard provider, javascript-Standard follower
+
+-ES5, ES6?
+-what is ES6? --> ES version/js version
+
+
+- What is JavaScript?
+- Dynamically typed,synchronous,single threaded(1 call stack), versatile programing language
+- versatile(used for clint and server side).
+
+- only browser can understand the js. How ?
+
+- js Engine :
+// default browser can read js.
+// js is browser language
+// browser have its own execution engine: image
+// E.g: Chrome --> v8
+Search : javascript engine list
+
+- Node ?
+- node : can run the js outside of browser using node
+
+// setup: node, vsc
+
+// online js code editor:
+// https://jsbin.com/?html,output
+
+
+
+
+
+
+
+

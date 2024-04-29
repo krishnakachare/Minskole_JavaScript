@@ -1,3 +1,0 @@
-- Temporal dead zone(TDZ)
-- Hoisting (fun)
-- Scope example

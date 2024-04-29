@@ -1,0 +1,7 @@
+[user]
+    name = krishna
+    email = krishnakachare2@gmail.com
+
+[includeIf "gitdir:~/office/"]
+
+    path = ~/office/.gitconfig

@@ -1,9 +1,0 @@
-Pure functions in Javascript are part of the functional programming paradigm. They apply to all programming languages using functions.
-In Javascript, functions are first-class citizens. They can be passed to functions, returned from functions and assigned to variables. Here, let us see what are pure functions and why we need them.
-1. By definition, a pure function is a function that always returns the same output for a given input.
-2. A pure function is predictable, readable, reusable and testable.
-3. It does not have any side effects. Side effects are the impact a function has on its outer environment or the inputs passed to it(mutation) or DOM manipulation etc. So a pure function does not affect its outer environment.
-4. Mutating inputs(arrays) can be avoided by using the spread parameter and functions like map(), filter() and reduce(), which make shallow copies of the input array, thereby not changing the original array.
-5. Pure functions should have at least one parameter and should return something.
-6. There are many advantages of pure functions. They are easy to test, and debug, and result in clean code that is decoupled and independent and can be added to utility functions.
-7.  Functions that include API calls, database read and writes, logging, and filesystem manipulation are all impure functions, as they have side effects. However, it is not possible to do without these types of functions in application programming. Hence the idea is to have such functions to a minimum and have pure functions as much as possible as a best programming practice.

@@ -11,17 +11,3 @@
 4. Redeclared                    N                N
 5. Scope: Function, Global       B,F,G          B,F,G
 
-# Data types in js
-1. Primitive Data types(6):
-    1. string
-    2. Boolean
-    3. Number
-    4. Null
-    5. Undefined
-    6. Symbol
-
-2. Non- Primitive data types:
-    1. Object
-    2. Array
-    3. Function  
-    4. RegEx  

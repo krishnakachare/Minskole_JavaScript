@@ -1,9 +1,0 @@
-Continuing with the functional programming paradigm from last week, today let us look at Higher Order Functions in Javascript.
- 
-1.      A higher order function is a function that takes in a function as an argument or returns a function.
- 2.      It can be used to create a generic function to perform several operations.
- 3.      A callback function is a function that is executed after another function has finished execution.
- 4.      Alternatively, it is a function that is passed as an argument to another function so that it can be executed inside that function. This makes it a higher order function.
- 5.      If there are nested callbacks, every callback function waits for the previous function to complete, thereby affecting the readability and maintainability of the code. This is called callback hell.
- 6.      setInterval(), clearInterval(), setTimeOut(), clearTimeOut() are all good examples of higher order functions. They take in a task(function) as an argument along with a time and execute the function.
- 7.      Array functions like map(), filter(), forEach(), some(), reduce(), find(), etc are also examples of higher order functions as they take in a function as argument.

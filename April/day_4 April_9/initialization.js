@@ -1,4 +1,5 @@
 // let a = 20;
+
 // let a; --> variable decleration
 // let a = 20; --> First time value assign to variable --> initialization 
 // a = 10; --> value update ---> reassign value to variable

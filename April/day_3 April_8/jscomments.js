@@ -9,7 +9,7 @@ var c = true;
 //    /* - Comment start.
 //    */ - Comment end.
 
-/* let a = 3;
+/*  let a = 3;
 const b = "hi";
 const b = "hi";
-var c = true; */
+var c = true;  */
