@@ -1,0 +1,19 @@
+# To know the lang:
+1.variable
+2.data types
+3.operators
+4.controls statements
+5.loops
+
+------------------------------------------------------------------------------------------
+# Datatypes in js: number, bigInt, string, null, undefined, boolean,symbol, object,array, function, RegEx.
+
+#Global Methods --> String, Number, alert, confirm, prompt, console methods, Math object methods
+
+
+# Operators
+# Control flow/statement
+# loops (break,continoue)
+# Functions
+
+

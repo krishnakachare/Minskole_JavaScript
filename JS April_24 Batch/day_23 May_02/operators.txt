@@ -1,0 +1,39 @@
+# To know the Any lang:
+1.variable.
+2.data types.
+3.operators
+4.controls statements
+5.loops 
+------------
+6.Functions
+
+-------------------------------------------
+# JavaScript Operator Types :
+Q. What is operands, operators, operation?
+  - unary, binary, ternary
+* LHS Operator RHS --> Action, Return
+
+1. Unary operators: +, ++, -- (Pre, post)
+2. Binary operators:
+    1. Arithmetic Operators:+,-,*,/,**,%
+    2. Assignment Operators: =, +=, -=, *=, /=, %=, **= (short hand methods)
+    3. Comparison Operators: <, >, <=, >=, ==, ===, !=, !==
+    4. Logical Operators: &&, ||, !
+    5. Bitwise Operators.
+    6. Miscellaneous Operators:, typeof, instanceof, void() --> Explain->;
+3. Ternary operators: 
+    1. conditional operator.
+
+*Examples Unary operators:
+    let a = 55;
+    let b = a++ + --a + ++a + a--;
+             55 + 55 + 56 + 56
+    console.log(b) // 222
+
+    x=20,y=30;
+    x++ + --y + ++y + --x
+    20+29+30+20
+
+NOTE: Focus on the variable values, what current variable value holding the variable(not considering any post operation) will consider for print/further operation
+
+Q. using ternary operator find the greatest number amongst 3 numbers

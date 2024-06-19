@@ -1,0 +1,23 @@
+1. Write a program to display the square of first 10 natural numbers
+   Expected Output : 1 4 9 16 25 36 49 64 81 100
+   
+2. Write a program to find the sum of first 10 natural numbers.
+   Expected Output : 55
+ 
+3. Ask user to enter a number. find the sum of digits of that number.
+   input : 125
+   output : 8 
+   
+4. Ask user to enter a number, print the factorial of that number.
+	input: 5 
+	output: 120
+
+5. Ask user to enter a number & check if that number is prime or not.
+   8 : not prime  
+   5 : prime
+	
+6. Write a program to display the first n terms of Fibonacci series.
+   Input number of terms to display : 10
+	Expected Output :
+	Here is the Fibonacci series upto to 10 terms :
+	0 1 1 2 3 5 8 13 21 34

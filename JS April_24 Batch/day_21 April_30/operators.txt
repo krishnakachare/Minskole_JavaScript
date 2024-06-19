@@ -1,0 +1,12 @@
+# JavaScript Operator Types :
+
+Q. What is operation? operand, operator, operation
+
+1. Arithmetic Operators:+,-,*,/,**,%
+  - unary operators: +, ++, -- (Pre, post)
+2. Assignment Operators: =, +=, -=, *=, /=, %=, **=
+3. Comparison Operators: <, >, <=, >=, ==, ===, !=, !==
+4. Logical Operators: &&, ||, !
+5. Bitwise Operators
+6. Miscellaneous Operators:, typeof, instanceof, void() --> Explain->;
+7. Ternary operator or conditional operator

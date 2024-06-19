@@ -1,0 +1,19 @@
+# Front end technologies- HTML,CSS, JS
+- HTML
+- CSS
+- Make dynamic web page - js help
+
+# DOM - Document Object Model
+- Modify the HTML structure, styling, content of web page, user input
+
+
+# Js scripts:- .js file
+
+# locations to put js code:-
+- with HTML
+1. inline js - onClick, onload
+2. internal js
+3. external js
+
+ 
+

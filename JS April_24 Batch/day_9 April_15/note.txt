@@ -1,0 +1,6 @@
+- Hoisting (variable and fun)
+- Temporal dead zone(TDZ)
+- Scope example: seperate example for let var const undecleared explaining G,F,B scope
+- Exception for undeclared variable, const for object.
+
+- js ?--> object oriented, case sensitive

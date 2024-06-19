@@ -1,0 +1,14 @@
+#Global Methods --> 
+    -console methods-Debugging. 
+    -Math object methods-number operations.
+
+# To know the Any lang:
+1.variable
+2.data types
+3.operators
+4.controls statements
+5.loops 
+------------
+6.Functions
+
+
