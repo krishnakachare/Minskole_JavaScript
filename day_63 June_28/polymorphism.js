@@ -77,6 +77,7 @@ class bird extends human {
         console.log(this.firstName + ' can not speak')
     }
 }
+
 let ABC = new bird("Ram", "ABC");
 // console.log(ABC)
 ABC.speak() // ABC can not speak
