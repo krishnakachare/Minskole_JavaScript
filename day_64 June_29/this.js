@@ -22,6 +22,7 @@ Q. what is 'this'?
     - Enclosing lexical context/scope        
 
 */
+// let a = "js"
 var a = "js"
 console.log(a) // "js"
 console.log(window.a)  // "js"
