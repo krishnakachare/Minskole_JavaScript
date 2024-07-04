@@ -27,6 +27,7 @@ let obj = {
 //     console.log(val)  // TypeError: obj is not iterable
 // }
 
+// Make normal object iterable
 // for(let val of Object.values(obj)){
 //     console.log(val)  
 // }
