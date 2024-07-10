@@ -1,0 +1,10 @@
+{
+  "Name": "JS",
+  "age": 30,
+  "isLive": true,
+  "Value": null,
+  "skills": ["FE", "BE"],
+  "ABC": {
+    "first": 10
+  }
+}

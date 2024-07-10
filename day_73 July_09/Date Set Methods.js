@@ -14,7 +14,7 @@
 let dateObj = new Date();
 console.log(dateObj)
 // Date :
-// dateObj.setFullYear(2026)
+dateObj.setFullYear(2026)
 // dateObj.setFullYear(2026, 1, 10)
 // dateObj.setMonth(1)
 // dateObj.setMonth(-3)
