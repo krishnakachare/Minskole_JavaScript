@@ -110,9 +110,11 @@
         - Corecion 
         - Escape Pattern
         - string properties & methods
-
+        - eval(), valueOf()
+ 
     19.	Array:
-        | ├── Into and defination 
+        | ├── Into and defination
+        | ├── Array properties & methods  
         | ├── Array iteration (loop)
     
     20.	Object:
@@ -154,3 +156,36 @@
     24. JSON:
         |── JSON (JavaScript Object Notation)
         |── JSON.stringify(), JSON.parse()
+
+    25.	Destructuring (string, array, object)
+    26.	spread & rest operator, Destructure + spread-rest
+
+    27.	REGEX
+    28.	Web APIs
+    29.	Asynchronous JavaScript (AJAX)
+    30.	Working with API
+    31. DOM
+    32.	Browser Object Model(BOM)
+        • Window Object
+        • Navigator Object
+        • Screen Object
+        • History Object
+        • Location Object
+        • Timers
+
+    33. Node.js Specific Concepts 
+    34. Modules in js   
+    35.	File handling in js
+    
+    36.	Debugging:
+        | └── Console.log()
+        | └── Breakpoints
+        | └── DevTools
+        |── ESLint    
+
+    37.	Error Handling:
+
+    38.	JavaScript Execution:
+        • Execution context
+        • callback queue
+        • Event loop
