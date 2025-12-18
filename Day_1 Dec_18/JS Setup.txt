@@ -2,7 +2,7 @@
 Download and install node.js:
 https://nodejs.org/en/download
 
--Check node version:  node --v
+-Check node version:  node -v // v20.13.1
 
 # Step:2 Download and install visual studio code:
 https://code.visualstudio.com/docs/?dv=win64user
