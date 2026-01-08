@@ -7,7 +7,7 @@
     Why is Corecion ?
     Able to perform mathematical operations
 
-    Why converting in only number ?
+    Why converting datatype?
     To perform mathematical operations we required values from number datatype
 
 */
