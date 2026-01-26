@@ -83,4 +83,4 @@ funOne(10, 20)
 // code write
 // code execute --> EC
 
-// 2 phases:
+// 2 phases: 1. Memory creation   2. Code execution
