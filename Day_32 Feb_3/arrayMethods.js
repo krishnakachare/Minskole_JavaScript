@@ -65,3 +65,16 @@ function callBackFun(ele, index, arr) {
 }
 
 arr.forEach(callBackFun)
+
+let a = 10;
+
+let fun = function (){}
+fun()
+
+function (){}()
+
+function fun (){
+
+}
+fun()
+

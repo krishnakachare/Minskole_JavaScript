@@ -26,6 +26,10 @@ console.log("JavaScript".includes("ava")) // true
 */
 
 //   slice(start, end(not included))
+/* 
+Supports negative indexes
+Does not modify original string
+*/
 
 let str = "JavaScript";
 // console.log(str.slice(0, 3)) // Jav
@@ -33,7 +37,12 @@ let str = "JavaScript";
 // console.log(str.slice(0, 4)) // Java
 // console.log(str) // JavaScript
 
-//    substring(start, end)
+//    substring(start, end(end not included))
+/* 
+Does NOT support negative values
+If start > end, it swaps them
+*/
+
 // console.log(str.substring(0)) // JavaScript
 // endIndex = 9
 
