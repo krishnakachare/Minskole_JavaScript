@@ -1,0 +1,11 @@
+1. Inheritance: Inheritance is the concept where one class inherits the properties
+  from another class.  
+
+    # Type of inheritance :
+       a. single level (In bt 2 classes)
+       b. multi level (In bt multiple classes)
+       
+    # Mode of inheritance :
+       1.Prototype Inheritance : Inheritance achived with the help of prototype
+       2.Using class (extend super()) : Inheritance achived with the help of class
+  
