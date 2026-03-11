@@ -1,0 +1,10 @@
+2. Encapsulation: 
+    Is the practice of wrapping data(variables) and methods (functions) into a singleunit called a class.
+    “enclosing” or hiding something, that’s exactly what is! With encapsulation, object’s methods and properties are enclosed within the object, so there are not exposed.
+
+    # Getter Setter methods
+
+3. Abstraction : 
+    Involves hiding complex implementation details and showing only the necessary features of an object.
+    Abstraction in JavaScript means hiding implementation details and exposing only necessary methods. We can achieve it using private fields, closures, or getters.
+    Example : ATM GUI
