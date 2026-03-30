@@ -1,0 +1,15 @@
+/* 
+css_selector {
+ color : 'red'
+
+}
+
+*/
+
+.red {
+  color: red;
+}
+
+.background {
+  background-color: yellow;
+}
