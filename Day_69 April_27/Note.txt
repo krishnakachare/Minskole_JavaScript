@@ -1,0 +1,74 @@
+
+- `innerHTML`
+- `innerText`
+- `textContent`
+
+- `style`
+
+
+- `getAttribute()`
+- `setAttribute()`
+- `removeAttribute()`
+- `hasAttribute()`
+
+
+el.classList.add() → add class
+el.classList.remove() → remove class
+el.classList.toggle() → add/remove automatically
+el.classList.contains() → check class
+
+
+
+
+# DOM Travarsing:
+
+### Parent
+
+- `parentNode`
+- `parentElement`
+
+### Children
+
+- `children`
+- `firstChild`
+- `lastChild`
+- `firstElementChild`
+- `lastElementChild`
+
+### Siblings
+
+- `nextSibling`
+- `previousSibling`
+- `nextElementSibling`
+- `previousElementSibling`
+
+Node → includes text, comment, spaces  👉 Node = Everything
+Element → includes only HTML tags  👉 Element = Only Tags
+
+
+
+
+# 11. Event Handling
+
+Handling user actions.
+
+- `click`
+- `mouseover`
+- `mouseout`
+- `keydown`
+- `keyup`
+- `submit`
+- `change`
+
+| Property / Method         | Meaning                              |
+| ------------------------- | ------------------------------------ |
+| `event.target`            | Which element triggered event        |
+| `event.type`              | Type of event (click, keydown, etc.) |
+| `event.preventDefault()`  | Stop default behavior                |
+| `event.stopPropagation()` | Stop bubbling to parent              |
+
+
+- `submit`
+
+# Event propagation : 1. Bubbling 2. Capturing
+# Event Delegation 
