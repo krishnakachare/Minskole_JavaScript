@@ -1,0 +1,11 @@
+1. Session storage:
+    sessionStorage.setItem("key", "Value");
+    sessionStorage.getItem("key");
+    sessionStorage.removeItem("key");
+    sessionStorage.clear();
+
+2. Local storage:
+    localStorage.setItem("key", "Value");
+    localStorage.getItem("key");
+    localStorage.removeItem("key");
+    localStorage.clear();
